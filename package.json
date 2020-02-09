@@ -1,7 +1,9 @@
 {
-  "name": "npm_package_test_react",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@buckydev/npmpackagetest",
+  "version": "1.0.0",
+  "description": "A npm package to see if I can make one that works",
+  "author": "Yann Meyjonade",
+  "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
