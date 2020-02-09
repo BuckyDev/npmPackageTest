@@ -1,6 +1,6 @@
 {
   "name": "@buckydev/npmpackagetest",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A npm package to see if I can make one that works",
   "author": "Yann Meyjonade",
   "license": "ISC",
